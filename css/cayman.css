@@ -53,6 +53,7 @@ a {
   color: #fff;
   text-align: center;
   background-color: #159957;
+  background-size: contain;
   background-image: url("https://farm4.staticflickr.com/3850/14980315539_272797ec12_o_d.jpg"); }
   @media screen and (min-width: 64em) {
     .page-header {
